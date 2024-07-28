@@ -25,16 +25,21 @@ To determine the top 5 performing categories:
 
 ### 4. Additional Insights
 Further analysis provided additional insights:
-- **Top 5 Categories**: ![Screenshot 2024-07-28 132900](https://github.com/user-attachments/assets/9f8f08ee-4168-48bc-91f5-c2832afdde7a)
+
+- **Top 5 Categories**:
+- ![Screenshot 2024-07-28 132900](https://github.com/user-attachments/assets/9f8f08ee-4168-48bc-91f5-c2832afdde7a)
 
   
-- **Popularity Persentage share for top 5 category**: ![Screenshot 2024-07-28 133320](https://github.com/user-attachments/assets/d5bff5e1-3072-45c4-976c-4117e70cf8ab)
+- **Popularity Persentage share for top 5 category**:
+- ![Screenshot 2024-07-28 133320](https://github.com/user-attachments/assets/d5bff5e1-3072-45c4-976c-4117e70cf8ab)
 
  
-- **Reactions to the Most Popular Category**: ![Screenshot 2024-07-28 162039](https://github.com/user-attachments/assets/2362bde0-f15b-4db4-9359-772bc5a43c74)
+- **Reactions to the Most Popular Category**:
+- ![Screenshot 2024-07-28 162039](https://github.com/user-attachments/assets/2362bde0-f15b-4db4-9359-772bc5a43c74)
 
 
-- **Month with the Most Posts**: Identified the month with the highest number of posts using PivotTables.![Screenshot 2024-07-28 162051](https://github.com/user-attachments/assets/925004a8-3a50-4950-a04f-228bb199c6cf)
+- **Month with the Most Posts**:
+- ![Screenshot 2024-07-28 162051](https://github.com/user-attachments/assets/925004a8-3a50-4950-a04f-228bb199c6cf)
 
 
 ### 5. Visualization
